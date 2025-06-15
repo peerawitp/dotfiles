@@ -1,0 +1,13 @@
+theme = "catppuccin-mocha"
+font-size = 18
+
+background-opacity = 0.92
+background-blur-radius= 30
+
+# cursor-style-blink = false
+# shell-integration-features = no-cursor
+
+window-inherit-working-directory = true
+window-height = 29
+window-width = 105
+
